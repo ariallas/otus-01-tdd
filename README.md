@@ -13,13 +13,3 @@ pre-commit install
 ```
 
 Для работы pyright должен быть установлен [Node.js](https://nodejs.org/en/download/package-manager)
-
-
-## Локальный запуск
-
-Локальный запуск:  
-
-```bash
-poetry shell
-python -m app.main
-```
